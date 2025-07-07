@@ -2,9 +2,7 @@
 
 
 <html>
-  <a href="https://www.instagram.com/kevinfrhnh/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" widht="32" height="32" alt="logo_ig">
-  </a>
+ 
 </html>
 
 <!---
